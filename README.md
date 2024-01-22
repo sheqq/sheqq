@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sheqq
-- 👀 I’m interested in programming, nature, gym and gaming.
 
 
 <!---
